@@ -1,0 +1,6 @@
+{
+  "font": "none",
+  "force_mode": false,
+  "custom_css_mode": true,
+  "custom_css": ".zekeris * {\nfont-family: YourFontName !important;\n}"
+}

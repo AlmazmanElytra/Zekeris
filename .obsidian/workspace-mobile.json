@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "8ebc657162a89b39",
+    "type": "split",
+    "children": [
+      {
+        "id": "97e77262c30096be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c2f1578afbfa990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Информация и особенности/Зэкерисский язык/Зэкерисский язык.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05dffdacb40d5e0f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f5d2d28536c51c84",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "53039409e28810d0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0d6bf6dbed8d3ecd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1fcb5bf0751b95b1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "98e41c7ab11fce92",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "43e959669bb9e107",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "acad1bc696d09049",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Информация и особенности/Зэкерисский язык/Зэкерисский язык.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c1e5e385b40fd79e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Информация и особенности/Зэкерисский язык/Зэкерисский язык.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9f166399a8ae14c1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Информация и особенности/Зэкерисский язык/Зэкерисский язык.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "4c2f1578afbfa990",
+  "lastOpenFiles": [
+    "Информация и особенности/Зэкерисский язык/Словарь.md",
+    "Папка создателей/Заметки/2023-12-05.md",
+    "Папка создателей/Заметки/2023-12-04.md",
+    "Папка создателей/Заметки/2023-12-01.md",
+    "Информация и особенности/Зэкерисский язык/Зэкерисский язык.md",
+    "Персонажи/Смотритель.md",
+    "События/Таймлайн.canvas",
+    "Смотритель.md",
+    "События/История человечества.md",
+    "События/События.md",
+    "Персонажи/Объединитель.md",
+    "Персонажи/Алмазмен (Зао) Элитра.md",
+    "Персонажи/Персонажи.md",
+    "Места/Города/Лонджент.md",
+    "Места/Города/Теилт.md",
+    "Информация и особенности/Идеологии/Натурализм.md",
+    "Информация и особенности/Идеологии/Идеологии.md",
+    "Информация и особенности/Организации и силовые структуры/Инквизиция.md",
+    "Информация и особенности/Организации и силовые структуры/Организации и силовые структуры.md",
+    "Места/Города/Эренберг.md",
+    "Места/Города/Скипта.md",
+    "Информация и особенности/Ядро.md",
+    "Информация и особенности/Призраки.md",
+    "Информация и особенности/Кристаллисы.md",
+    "Информация и особенности/Информация и особенности.md",
+    "Места/Места.md",
+    "Места/Зэкерис.md",
+    "Папка создателей/Медиа/ЭП.png",
+    "Папка создателей/Медиа/letA.png",
+    "Папка создателей/Медиа/ЭпохаОбъед.png",
+    "Папка создателей/Архив/Наполнение",
+    "Места/Города",
+    "Папка создателей/Медиа",
+    "Папка создателей/Архив",
+    "Папка создателей/Шаблоны",
+    "Папка создателей/Заметки",
+    "Информация и особенности/Идеологии",
+    "Информация и особенности/Зэкерисский язык",
+    "Информация и особенности/Организации и силовые структуры",
+    "Места"
+  ]
+}

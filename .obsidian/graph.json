@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:доделать",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Города  ",
+      "color": {
+        "a": 1,
+        "rgb": 16740464
+      }
+    },
+    {
+      "query": "path:События  ",
+      "color": {
+        "a": 1,
+        "rgb": 15007508
+      }
+    },
+    {
+      "query": "path:\"Информация и особенности\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Персонажи  ",
+      "color": {
+        "a": 1,
+        "rgb": 354815
+      }
+    },
+    {
+      "query": "path:Места  ",
+      "color": {
+        "a": 1,
+        "rgb": 10835431
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 1.29947916666667,
+  "lineSizeMultiplier": 2.4734375,
+  "collapse-forces": false,
+  "centerStrength": 0.421875,
+  "repelStrength": 8.64583333333333,
+  "linkStrength": 0.317708333333333,
+  "linkDistance": 226,
+  "scale": 0.45050811767578225,
+  "close": true
+}
