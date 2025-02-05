@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Папка создателей/Цели.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Цели"
             }
           }
         ]
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Папка создателей/Цели.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура README"
+              "title": "Структура Цели"
             }
           },
           {
@@ -300,49 +300,17 @@
       "workspaces:Пространства": false
     }
   },
-  "floating": {
-    "id": "55cf1ae952883087",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1badf1ce8a116e89",
-        "type": "window",
-        "children": [
-          {
-            "id": "95742cab86f5f765",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c7b84696eab3923b",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/kevinmkchin/Obsidian-GitHub-Sync/blob/main/README.md",
-                    "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "641b8f880bd2b37a",
+  "active": "fc4fe7cd94fe0798",
   "lastOpenFiles": [
-    "Папка создателей/Мастерская/Мастерская.md",
+    "Папка создателей/Инструменты.md",
+    "Папка создателей/Вопрос о континентах.md",
+    "Папка создателей/Медиа/ЭпохаОбъед.png",
+    "Папка создателей/Медиа/ЭП.png",
+    "Папка создателей/Медиа/Климат и ГОРЫ.png",
+    "Папка создателей/Медиа/letA.png",
+    "Папка создателей/Медиа/письменность-1.png",
     "README.md",
+    "Папка создателей/Мастерская/Мастерская.md",
     "Папка создателей/Заметки/2025-02-05.md",
     "Папка создателей/Заметки/2024-11-01.md",
     "Папка создателей/Заметки/2024-12-03.md",
@@ -351,7 +319,6 @@
     "Места/Города/Теилт.md",
     "Папка создателей/Мастерская/hektod!.md",
     "Папка создателей/Мастерская/Особые символы (THEME-PROVIDED).md",
-    "Папка создателей/Инструменты.md",
     "Zekeris/Zekeris.md",
     "Zekeris",
     "Информация и особенности/Зэкерисский язык/Словарь.md",
@@ -371,19 +338,13 @@
     "Папка создателей/Архив/Новая папка",
     "Информация и особенности/Зэкерисский язык/Словарь3 — копия.md",
     "Информация и особенности/Зэкерисский язык/СловарьLegacy.md",
-    "Информация и особенности/Зэкерисский язык/Словарь3.md",
     "Информация и особенности/Зэкерисский язык/dictionary.exe",
     "Информация и особенности/Зэкерисский язык/dictionaryLegacy2.exe",
     "Информация и особенности/Зэкерисский язык/dictionaryLegacy1.exe",
-    "Папка создателей/Медиа/письменность-1.png",
     "яяя Папка создателей/Медиа/письменность-1.png",
     "Clippings",
     "События/Таймлайн.canvas",
     "Папка создателей/Мастерская",
-    "Папка создателей/Медиа/Климат и ГОРЫ.png",
-    "Папка создателей/Медиа/ЭП.png",
-    "Папка создателей/Медиа/letA.png",
-    "Папка создателей/Медиа/ЭпохаОбъед.png",
     "яяя Папка создателей/Медиа/Pasted image 20231203135352.png",
     "яяя Папка создателей/Медиа/ЭпохаПлемён.png"
   ]
