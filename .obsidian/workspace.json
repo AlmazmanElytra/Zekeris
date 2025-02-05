@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Информация и особенности/Зэкерисский язык/Морфологическая энциклопедия.md",
+                "file": "Папка создателей/Заметки/2025-02-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Морфологическая энциклопедия"
+              "title": "2025-02-05"
             }
           }
         ]
@@ -202,13 +202,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Информация и особенности/Зэкерисский язык/Морфологическая энциклопедия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Морфологическая энциклопедия"
+              "title": "Структура"
             }
           },
           {
@@ -300,14 +299,54 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "fc4fe7cd94fe0798",
+  "floating": {
+    "id": "55cf1ae952883087",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6ea7dadfd8c01137",
+        "type": "window",
+        "children": [
+          {
+            "id": "a5336cebde18e0eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "96e5fc2fa819327d",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/kevinmkchin/Obsidian-GitHub-Sync/blob/main/README.md",
+                    "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "96e5fc2fa819327d",
   "lastOpenFiles": [
+    "Папка создателей/Заметки/2025-02-05.md",
+    "Информация и особенности/Зэкерисский язык/Морфологическая энциклопедия.md",
     "Места/Города/Теилт.md",
     "Папка создателей/Мастерская/hektod!.md",
     "Папка создателей/Мастерская/Особые символы (THEME-PROVIDED).md",
     "Папка создателей/Инструменты.md",
     "Zekeris/Zekeris.md",
-    "Информация и особенности/Зэкерисский язык/Морфологическая энциклопедия.md",
     "Zekeris",
     "Информация и особенности/Зэкерисский язык/Словарь.md",
     "Информация и особенности/Зэкерисский язык/Зэкерисский язык.md",
@@ -337,7 +376,6 @@
     "Папка создателей/Медиа/письменность-1.png",
     "яяя Папка создателей/яяя Папка создателей.md",
     "яяя Папка создателей/Медиа/письменность-1.png",
-    "Папка создателей/Папка создателей.md",
     "Clippings",
     "События/Таймлайн.canvas",
     "Папка создателей/Мастерская",
