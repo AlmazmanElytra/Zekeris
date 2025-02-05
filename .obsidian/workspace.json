@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Папка создателей/Мастерская/Мастерская.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мастерская"
+              "title": "README"
             }
           }
         ]
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Папка создателей/Мастерская/Мастерская.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Мастерская"
+              "title": "Структура README"
             }
           },
           {
@@ -339,9 +339,10 @@
       }
     ]
   },
-  "active": "fc4fe7cd94fe0798",
+  "active": "641b8f880bd2b37a",
   "lastOpenFiles": [
     "Папка создателей/Мастерская/Мастерская.md",
+    "README.md",
     "Папка создателей/Заметки/2025-02-05.md",
     "Папка создателей/Заметки/2024-11-01.md",
     "Папка создателей/Заметки/2024-12-03.md",
@@ -374,7 +375,6 @@
     "Информация и особенности/Зэкерисский язык/dictionary.exe",
     "Информация и особенности/Зэкерисский язык/dictionaryLegacy2.exe",
     "Информация и особенности/Зэкерисский язык/dictionaryLegacy1.exe",
-    "Персонажи/Персонажи.md",
     "Папка создателей/Медиа/письменность-1.png",
     "яяя Папка создателей/Медиа/письменность-1.png",
     "Clippings",
