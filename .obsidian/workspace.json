@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Папка создателей/Цели.md",
+                "file": "Информация и особенности/Зэкерисский язык/Морфологическая энциклопедия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Цели"
+              "title": "Морфологическая энциклопедия"
             }
           }
         ]
@@ -69,14 +69,14 @@
                 "id": "49d2e709f46d700d",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "webviewer",
                   "state": {
-                    "file": "Папка создателей/Заметки/2024-12-03.md",
-                    "mode": "source",
-                    "source": false
+                    "url": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
+                    "title": "Duck.ai",
+                    "mode": "webview"
                   },
-                  "icon": "lucide-file",
-                  "title": "2024-12-03"
+                  "icon": "globe-2",
+                  "title": "Duck.ai"
                 }
               }
             ]
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Папка создателей/Цели.md",
+                "file": "Информация и особенности/Зэкерисский язык/Морфологическая энциклопедия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Цели"
+              "title": "Структура Морфологическая энциклопедия"
             }
           },
           {
@@ -300,50 +300,14 @@
       "workspaces:Пространства": false
     }
   },
-  "floating": {
-    "id": "55cf1ae952883087",
-    "type": "floating",
-    "children": [
-      {
-        "id": "862dc0216a08a4d1",
-        "type": "window",
-        "children": [
-          {
-            "id": "4caafc6a74441bce",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "04b8b7b2ef3cc39a",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/kevinmkchin/Obsidian-GitHub-Sync/blob/main/README.md",
-                    "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "fc4fe7cd94fe0798",
   "lastOpenFiles": [
+    "Папка создателей/Цели.md",
+    "Папка создателей/Мастерская/Без названия.md",
+    "Папка создателей/Заметки/2025-02-05.md",
+    "Папка создателей/Заметки/2024-12-03.md",
     "Папка создателей/Папка создателей.md",
     "Места/Города/Скипта.md",
-    "Папка создателей/Цели.md",
     "Папка создателей/Инструменты.md",
     "Папка создателей/Вопрос о континентах.md",
     "Папка создателей/Медиа/ЭпохаОбъед.png",
@@ -353,10 +317,7 @@
     "Папка создателей/Медиа/письменность-1.png",
     "README.md",
     "Папка создателей/Мастерская/Мастерская.md",
-    "Папка создателей/Заметки/2025-02-05.md",
     "Папка создателей/Заметки/2024-11-01.md",
-    "Папка создателей/Заметки/2024-12-03.md",
-    "Папка создателей/Мастерская/Без названия.md",
     "Информация и особенности/Зэкерисский язык/Морфологическая энциклопедия.md",
     "Места/Города/Теилт.md",
     "Папка создателей/Мастерская/hektod!.md",
