@@ -299,45 +299,6 @@
       "workspaces:Пространства": false
     }
   },
-  "floating": {
-    "id": "55cf1ae952883087",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6ea7dadfd8c01137",
-        "type": "window",
-        "children": [
-          {
-            "id": "a5336cebde18e0eb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "96e5fc2fa819327d",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/kevinmkchin/Obsidian-GitHub-Sync/blob/main/README.md",
-                    "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "49d2e709f46d700d",
   "lastOpenFiles": [
     "Папка создателей/Заметки/2024-11-01.md",
