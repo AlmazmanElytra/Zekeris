@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": "#8a5cf5",
     "recentlyUsedIcons": [
+      "LiGithub",
       "LiPuzzle",
       "LiGitCompare",
       "RiToolsFill",
@@ -14,8 +15,7 @@
       "FasStar",
       "LiTestTube2",
       "RiFolderZipFill",
-      "LiScrollText",
-      "RaCrystals"
+      "LiScrollText"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -86,5 +86,6 @@
   "Рассказы": "FasBook",
   "Информация и особенности/Зэкерисский язык/Разметка.md": "LiGitCompare",
   "Информация и особенности/Зэкерисский язык/Словарь.md": "FasBook",
-  "Информация и особенности/Зэкерисский язык/Морфологическая энциклопедия.md": "LiPuzzle"
+  "Информация и особенности/Зэкерисский язык/Морфологическая энциклопедия.md": "LiPuzzle",
+  "Папка создателей": "LiGithub"
 }
