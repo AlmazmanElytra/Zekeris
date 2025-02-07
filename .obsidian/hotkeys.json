@@ -30,5 +30,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "calendar:show-calendar-view": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "]"
+    }
   ]
 }
