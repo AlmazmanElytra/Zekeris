@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": "#8a5cf5",
     "recentlyUsedIcons": [
+      "LiBriefcase",
+      "RiFolderZipFill",
+      "IbPhoto",
       "LiAlbum",
       "LiGithub",
       "LiPuzzle",
       "LiGitCompare",
       "RiToolsFill",
       "FasSkull",
-      "RaHammer",
-      "FasStar",
-      "LiTestTube2",
-      "RiFolderZipFill"
+      "RaHammer"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -88,5 +88,10 @@
   "Информация и особенности/Зэкерисский язык/Морфологическая энциклопедия.md": "LiPuzzle",
   "Папка создателей": "LiGithub",
   "Папка создателей/Заметки": "LiAlbum",
-  "Информация и особенности/Зэкерисский язык/README.md": "LiScrollText"
+  "Информация и особенности/Зэкерисский язык/README.md": "LiScrollText",
+  "Папка создателей/Мастерская": "RiToolsFill",
+  "Папка создателей/Медиа": "IbPhoto",
+  "Папка создателей/Архив": "RiFolderZipFill",
+  "Папка создателей/Цели.md": "FasStar",
+  "Папка создателей/Инструменты.md": "LiBriefcase"
 }
