@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": "#8a5cf5",
     "recentlyUsedIcons": [
+      "LiCircleDollarSign",
+      "LiSpade",
       "LiBriefcase",
       "RiFolderZipFill",
       "IbPhoto",
@@ -13,9 +15,7 @@
       "LiGithub",
       "LiPuzzle",
       "LiGitCompare",
-      "RiToolsFill",
-      "FasSkull",
-      "RaHammer"
+      "RiToolsFill"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -93,5 +93,7 @@
   "Папка создателей/Архив": "RiFolderZipFill",
   "Папка создателей/Цели.md": "FasStar",
   "Папка создателей/Инструменты.md": "LiBriefcase",
-  "Персонажи/Алмаз (Зао) Элитра.md": "RiVipDiamondFill"
+  "Персонажи/Алмаз (Зао) Элитра.md": "RiVipDiamondFill",
+  "Информация и особенности/Символика": "LiSpade",
+  "Информация и особенности/Символика/Краб.md": "LiCircleDollarSign"
 }
