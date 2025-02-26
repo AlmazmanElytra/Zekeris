@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": "#8a5cf5",
     "recentlyUsedIcons": [
+      "LiVenetianMask",
+      "LiHandCoins",
       "LiCircleDollarSign",
       "LiSpade",
       "LiBriefcase",
@@ -13,9 +15,7 @@
       "IbPhoto",
       "LiAlbum",
       "LiGithub",
-      "LiPuzzle",
-      "LiGitCompare",
-      "RiToolsFill"
+      "LiPuzzle"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -95,5 +95,7 @@
   "Папка создателей/Инструменты.md": "LiBriefcase",
   "Персонажи/Алмаз (Зао) Элитра.md": "RiVipDiamondFill",
   "Информация и особенности/Символика": "LiSpade",
-  "Информация и особенности/Символика/Краб.md": "LiCircleDollarSign"
+  "Информация и особенности/Символика/Краб.md": "LiCircleDollarSign",
+  "Места/Города/Лонджент.md": "LiHandCoins",
+  "Папка создателей/Украдено": "LiVenetianMask"
 }
