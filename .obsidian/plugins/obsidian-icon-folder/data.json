@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": "#8a5cf5",
     "recentlyUsedIcons": [
+      "LiShield",
       "LiVenetianMask",
       "LiHandCoins",
       "LiCircleDollarSign",
@@ -14,8 +15,7 @@
       "RiFolderZipFill",
       "IbPhoto",
       "LiAlbum",
-      "LiGithub",
-      "LiPuzzle"
+      "LiGithub"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -97,5 +97,6 @@
   "Информация и особенности/Символика": "LiSpade",
   "Информация и особенности/Символика/Краб.md": "LiCircleDollarSign",
   "Места/Города/Лонджент.md": "LiHandCoins",
-  "Папка создателей/Украдено": "LiVenetianMask"
+  "Папка создателей/Украдено": "LiVenetianMask",
+  "Информация и особенности/Докирийская сталь.md": "LiShield"
 }
