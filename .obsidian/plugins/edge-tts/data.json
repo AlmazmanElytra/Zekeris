@@ -1,0 +1,13 @@
+{
+  "selectedVoice": "en-US-AvaNeural",
+  "customVoice": "ru-RU-DmitryNeural",
+  "playbackSpeed": 1,
+  "showNotices": true,
+  "showStatusBarButton": true,
+  "showMenuItems": true,
+  "generateMP3": false,
+  "outputFolder": "Note Narration Audio",
+  "embedInNote": false,
+  "replaceSpacesInFilenames": false,
+  "overrideAmpersandEscape": false
+}
