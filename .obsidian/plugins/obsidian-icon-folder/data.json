@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": "#8a5cf5",
     "recentlyUsedIcons": [
+      "LiStickyNote",
       "LiShield",
       "LiVenetianMask",
       "LiHandCoins",
@@ -14,8 +15,7 @@
       "LiBriefcase",
       "RiFolderZipFill",
       "IbPhoto",
-      "LiAlbum",
-      "LiGithub"
+      "LiAlbum"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -98,5 +98,6 @@
   "Места/Города/Лонджент.md": "LiHandCoins",
   "Папка создателей/Украдено": "LiVenetianMask",
   "Информация и особенности/Докирийская сталь.md": "LiShield",
-  "Информация и особенности/Идеологии/Бизлац.md": "RiFolderZipFill"
+  "Информация и особенности/Идеологии/Бизлац.md": "RiFolderZipFill",
+  "События/Обрывки истории": "LiStickyNote"
 }
