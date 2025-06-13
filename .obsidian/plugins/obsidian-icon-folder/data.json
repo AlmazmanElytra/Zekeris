@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": "#8a5cf5",
     "recentlyUsedIcons": [
+      "FasBook",
       "LiStickyNote",
       "LiShield",
       "LiVenetianMask",
@@ -14,8 +15,7 @@
       "LiSpade",
       "LiBriefcase",
       "RiFolderZipFill",
-      "IbPhoto",
-      "LiAlbum"
+      "IbPhoto"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -82,7 +82,6 @@
   "Информация и особенности/Зэкерисский язык": "LiScrollText",
   "Рассказы": "FasBook",
   "Информация и особенности/Зэкерисский язык/Разметка.md": "LiGitCompare",
-  "Информация и особенности/Зэкерисский язык/Словарь.md": "FasBook",
   "Информация и особенности/Зэкерисский язык/Морфологическая энциклопедия.md": "LiPuzzle",
   "Папка создателей": "LiGithub",
   "Папка создателей/Заметки": "LiAlbum",
@@ -99,5 +98,6 @@
   "Папка создателей/Украдено": "LiVenetianMask",
   "Информация и особенности/Докирийская сталь.md": "LiShield",
   "Информация и особенности/Идеологии/Бизлац.md": "RiFolderZipFill",
-  "События/Обрывки истории": "LiStickyNote"
+  "События/Обрывки истории": "LiStickyNote",
+  "Информация и особенности/Зэкерисский язык/Словарь.md": "FasBook"
 }
