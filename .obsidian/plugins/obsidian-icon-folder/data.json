@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": "#8a5cf5",
     "recentlyUsedIcons": [
+      "FasPeopleGroup",
       "FasBook",
       "LiStickyNote",
       "LiShield",
@@ -14,8 +15,7 @@
       "LiCircleDollarSign",
       "LiSpade",
       "LiBriefcase",
-      "RiFolderZipFill",
-      "IbPhoto"
+      "RiFolderZipFill"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -99,5 +99,6 @@
   "Информация и особенности/Докирийская сталь.md": "LiShield",
   "Информация и особенности/Идеологии/Бизлац.md": "RiFolderZipFill",
   "События/Обрывки истории": "LiStickyNote",
-  "Информация и особенности/Зэкерисский язык/Словарь.md": "FasBook"
+  "Информация и особенности/Зэкерисский язык/Словарь.md": "FasBook",
+  "Человеки": "FasPeopleGroup"
 }
