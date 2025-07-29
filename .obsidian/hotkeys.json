@@ -38,5 +38,13 @@
       ],
       "key": "]"
     }
+  ],
+  "OA-file-hider:oa-fh-toggle-visibility": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }
