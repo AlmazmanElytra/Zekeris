@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": "#8a5cf5",
     "recentlyUsedIcons": [
+      "LiPalette",
       "LiCalendarDays",
       "FasPeopleGroup",
       "FasBook",
@@ -14,8 +15,7 @@
       "LiVenetianMask",
       "LiHandCoins",
       "LiCircleDollarSign",
-      "LiSpade",
-      "LiBriefcase"
+      "LiSpade"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -99,5 +99,7 @@
   "Информация и особенности/Идеологии/Бизлац.md": "RiFolderZipFill",
   "События/Обрывки истории": "LiStickyNote",
   "Человеки": "FasPeopleGroup",
-  "Информация и особенности/Календарь.md": "LiCalendarDays"
+  "Информация и особенности/Календарь.md": "LiCalendarDays",
+  "Места/Города/Кфандэр.md": "LiPalette",
+  "Информация и особенности/Идеологии/Латгац.md": "LiPalette"
 }
