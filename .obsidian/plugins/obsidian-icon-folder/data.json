@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": "#8a5cf5",
     "recentlyUsedIcons": [
+      "RiShieldStarFill",
+      "LiScale",
       "BoBxsFlask",
       "LiPalette",
       "LiCalendarDays",
@@ -13,9 +15,7 @@
       "FasBook",
       "LiStickyNote",
       "LiShield",
-      "LiVenetianMask",
-      "LiHandCoins",
-      "LiCircleDollarSign"
+      "LiVenetianMask"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -62,7 +62,6 @@
     "useInternalPlugins": false
   },
   "Информация и особенности/Идеологии": "FasChurch",
-  "Информация и особенности/Идеологии/Натурализм.md": "RiTreeFill",
   "Информация и особенности/Организации и силовые структуры": "RiShieldStarFill",
   "Места/Города": "BoBxsCity",
   "Места/Города/Эренберг.md": "BoBxsFlask",
@@ -76,7 +75,6 @@
   "События/Таймлайн.canvas": "LiMoveRight",
   "Информация и особенности/Организации и силовые структуры/Инквизиция.md": "RaHood",
   "Информация и особенности/Ядро.md": "FabSuperpowers",
-  "Информация и особенности/Призраки.md": "BoBxsGhost",
   "Информация и особенности/Кристалосы.md": "RaCrystals",
   "Информация и особенности/Q&A.md": "FasQuestion",
   "Информация и особенности/Зэкерисский язык": "LiScrollText",
@@ -102,5 +100,9 @@
   "Информация и особенности/Календарь.md": "LiCalendarDays",
   "Места/Города/Кфандэр.md": "LiPalette",
   "Информация и особенности/Идеологии/Латгац.md": "LiPalette",
-  "Информация и особенности/Идеологии/Тэкац.md": "BoBxsFlask"
+  "Информация и особенности/Идеологии/Тэкац.md": "BoBxsFlask",
+  "Информация и особенности/Идеологии/Лицац.md": "LiScale",
+  "Места/Города/Контрорар.md": "RiShieldStarFill",
+  "Информация и особенности/Идеологии/Хикталац.md": "RiTreeFill",
+  "Информация и особенности/Люсты.md": "BoBxsGhost"
 }
