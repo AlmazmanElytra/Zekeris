@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": "#8a5cf5",
     "recentlyUsedIcons": [
+      "RiVipDiamondFill",
+      "LiShrink",
       "RiShieldStarFill",
       "LiScale",
       "BoBxsFlask",
@@ -13,9 +15,7 @@
       "LiCalendarDays",
       "FasPeopleGroup",
       "FasBook",
-      "LiStickyNote",
-      "LiShield",
-      "LiVenetianMask"
+      "LiStickyNote"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -105,5 +105,7 @@
   "Места/Города/Контрорар.md": "RiShieldStarFill",
   "Информация и особенности/Идеологии/Хикталац.md": "RiTreeFill",
   "Информация и особенности/Люсты.md": "BoBxsGhost",
-  "Информация и особенности/Организации и силовые структуры/Шпионы.md": "LiVenetianMask"
+  "Информация и особенности/Организации и силовые структуры/Шпионы.md": "LiVenetianMask",
+  "Информация и особенности/Организации и силовые структуры/Гвардейцы.md": "LiShrink",
+  "Информация и особенности/Идеологии/Хетац.md": "RiVipDiamondFill"
 }
