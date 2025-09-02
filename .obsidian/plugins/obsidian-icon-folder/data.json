@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": "#8a5cf5",
     "recentlyUsedIcons": [
+      "LiGrab",
       "RiVipDiamondFill",
       "LiShrink",
       "RiShieldStarFill",
@@ -14,8 +15,7 @@
       "LiPalette",
       "LiCalendarDays",
       "FasPeopleGroup",
-      "FasBook",
-      "LiStickyNote"
+      "FasBook"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -107,5 +107,6 @@
   "Информация и особенности/Люсты.md": "BoBxsGhost",
   "Информация и особенности/Организации и силовые структуры/Шпионы.md": "LiVenetianMask",
   "Информация и особенности/Организации и силовые структуры/Гвардейцы.md": "LiShrink",
-  "Информация и особенности/Идеологии/Хетац.md": "RiVipDiamondFill"
+  "Информация и особенности/Идеологии/Хетац.md": "RiVipDiamondFill",
+  "Информация и особенности/Идеологии/Гсотац.md": "LiGrab"
 }
