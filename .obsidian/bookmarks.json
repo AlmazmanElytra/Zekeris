@@ -5,6 +5,12 @@
       "ctime": 1738550350156,
       "url": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
       "title": "Duck.ai"
+    },
+    {
+      "type": "url",
+      "ctime": 1758140451515,
+      "url": "https://chatgpt.com/?model=auto",
+      "title": "ChatGPT"
     }
   ]
 }

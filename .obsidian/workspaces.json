@@ -1,4 +1,476 @@
 {
-  "workspaces": {},
-  "active": "Тест"
+  "workspaces": {
+    "Основное": {
+      "main": {
+        "id": "a27549fbf1b5dcb3",
+        "type": "split",
+        "children": [
+          {
+            "id": "4f153082db82ebfd",
+            "type": "tabs",
+            "dimension": 53.361702127659576,
+            "children": [
+              {
+                "id": "692c157c1ab70ddc",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Новая вкладка"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bdcfd0019db38963",
+            "type": "tabs",
+            "dimension": 46.638297872340424,
+            "children": [
+              {
+                "id": "f5f11fb5e7147ce7",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://chatgpt.com/?model=auto",
+                    "title": "ChatGPT",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "ChatGPT"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "83b4998e0b546258",
+        "type": "split",
+        "children": [
+          {
+            "id": "93f2570667ff843b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "67e0ca33794ed0c3",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Файловый менеджер"
+                }
+              },
+              {
+                "id": "8d82904f28f2e0a1",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:доделать",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Поиск"
+                }
+              },
+              {
+                "id": "01e755cd58bbe99a",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Закладки"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 297.5
+      },
+      "right": {
+        "id": "3963a2127c3f70da",
+        "type": "split",
+        "children": [
+          {
+            "id": "b89aa220163d97dc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2d32fe187c349b7c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Папка создателей/Заметки/Еженедельные/2025-W10.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Обратные ссылки для 2025-W10"
+                }
+              },
+              {
+                "id": "5a5ad0e7b1ba0c76",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Папка создателей/Мастерская/Особые символы (THEME-PROVIDED).md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Исходящие ссылки из Особые символы (THEME-PROVIDED)"
+                }
+              },
+              {
+                "id": "02af7f8ada17ce3f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Теги"
+                }
+              },
+              {
+                "id": "554965be2e364eb8",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Все свойства"
+                }
+              },
+              {
+                "id": "e9aecc01026016b3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Структура"
+                }
+              },
+              {
+                "id": "92cd101b7025a596",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "3fce7b118de10a9f",
+                "type": "leaf",
+                "state": {
+                  "type": "SC-custom-variables-view",
+                  "state": {},
+                  "icon": "code-glyph",
+                  "title": "Shell commands: Custom variables"
+                }
+              },
+              {
+                "id": "20e66daea22a05ed",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {},
+                  "icon": "lucide-info",
+                  "title": "Свойства файла"
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 403.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Создать новую базу": false,
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "canvas:Создать новый холст": false,
+          "daily-notes:Сегодняшняя заметка": false,
+          "templates:Вставить шаблон": false,
+          "command-palette:Открыть палитру команд": false,
+          "random-note:Открыть случайную заметку": false,
+          "workspaces:Пространства": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+          "local-backup:Run local backup": false,
+          "obsidian-shellcommands:Shell commands: Custom variables": false,
+          "github-sync:Sync with Remote": false,
+          "edge-tts:Read note aloud": false,
+          "obsidian-excalidraw-plugin:Создать новый чертеж": false
+        }
+      },
+      "active": "92cd101b7025a596",
+      "mtime": "2025-09-18T22:44:37+03:00"
+    },
+    "Рисование": {
+      "main": {
+        "id": "a27549fbf1b5dcb3",
+        "type": "split",
+        "children": [
+          {
+            "id": "4f153082db82ebfd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "692c157c1ab70ddc",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Папка создателей/Рисовательная доска.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Рисовательная доска"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "83b4998e0b546258",
+        "type": "split",
+        "children": [
+          {
+            "id": "93f2570667ff843b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "67e0ca33794ed0c3",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Файловый менеджер"
+                }
+              },
+              {
+                "id": "8d82904f28f2e0a1",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:доделать",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Поиск"
+                }
+              },
+              {
+                "id": "01e755cd58bbe99a",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Закладки"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 297.5
+      },
+      "right": {
+        "id": "3963a2127c3f70da",
+        "type": "split",
+        "children": [
+          {
+            "id": "b89aa220163d97dc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2d32fe187c349b7c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Папка создателей/Заметки/Еженедельные/2025-W10.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Обратные ссылки для 2025-W10"
+                }
+              },
+              {
+                "id": "5a5ad0e7b1ba0c76",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Папка создателей/Мастерская/Особые символы (THEME-PROVIDED).md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Исходящие ссылки из Особые символы (THEME-PROVIDED)"
+                }
+              },
+              {
+                "id": "02af7f8ada17ce3f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Теги"
+                }
+              },
+              {
+                "id": "554965be2e364eb8",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "Все свойства"
+                }
+              },
+              {
+                "id": "e9aecc01026016b3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Папка создателей/Рисовательная доска.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Структура Рисовательная доска"
+                }
+              },
+              {
+                "id": "92cd101b7025a596",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "3fce7b118de10a9f",
+                "type": "leaf",
+                "state": {
+                  "type": "SC-custom-variables-view",
+                  "state": {},
+                  "icon": "code-glyph",
+                  "title": "Shell commands: Custom variables"
+                }
+              },
+              {
+                "id": "20e66daea22a05ed",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Папка создателей/Рисовательная доска.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "Свойства файла для Рисовательная доска"
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 403.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Создать новую базу": false,
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "canvas:Создать новый холст": false,
+          "daily-notes:Сегодняшняя заметка": false,
+          "templates:Вставить шаблон": false,
+          "command-palette:Открыть палитру команд": false,
+          "random-note:Открыть случайную заметку": false,
+          "workspaces:Пространства": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+          "local-backup:Run local backup": false,
+          "obsidian-shellcommands:Shell commands: Custom variables": false,
+          "github-sync:Sync with Remote": false,
+          "edge-tts:Read note aloud": false,
+          "obsidian-excalidraw-plugin:Создать новый чертеж": false
+        }
+      },
+      "active": "67e0ca33794ed0c3",
+      "mtime": "2025-09-18T22:45:25+03:00"
+    }
+  },
+  "active": "Основное"
 }

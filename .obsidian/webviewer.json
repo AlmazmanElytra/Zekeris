@@ -1,5 +1,7 @@
 {
-  "openExternalURLs": true,
+  "openExternalURLs": false,
   "enableAdblocking": true,
-  "searchEngine": "duckduckgo"
+  "searchEngine": "duckduckgo",
+  "markdownPath": "Папка создателей/Украдено",
+  "homepage": "https://chatgpt.com/?model=auto"
 }

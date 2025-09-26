@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "время": "text",
-    "img": "text"
+    "img": "text",
+    "Наполненность": "number",
+    "Есть идеология?": "checkbox"
   }
 }

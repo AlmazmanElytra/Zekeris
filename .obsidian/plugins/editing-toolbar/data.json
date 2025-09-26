@@ -236,6 +236,11 @@
       "id": "OA-file-hider:oa-fh-toggle-visibility",
       "name": "File Hider: Toggle Visibility",
       "icon": "eye"
+    },
+    {
+      "id": "workspace:copy-path",
+      "name": "Скопировать путь к файлу",
+      "icon": "lucide-copy"
     }
   ],
   "appendMethod": "workspace",

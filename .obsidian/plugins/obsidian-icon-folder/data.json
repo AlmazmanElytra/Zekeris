@@ -4,18 +4,18 @@
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 17,
     "emojiStyle": "native",
-    "iconColor": "#8a5cf5",
+    "iconColor": "#41d274",
     "recentlyUsedIcons": [
+      "IbPhoto",
+      "LiLanguages",
+      "LiBrainCog",
+      "LiExpand",
       "LiGrab",
       "RiVipDiamondFill",
       "LiShrink",
       "RiShieldStarFill",
       "LiScale",
-      "BoBxsFlask",
-      "LiPalette",
-      "LiCalendarDays",
-      "FasPeopleGroup",
-      "FasBook"
+      "BoBxsFlask"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [
@@ -55,7 +55,7 @@
     "iconInTitlePosition": "above",
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
-    "iconsInLinksEnabled": true,
+    "iconsInLinksEnabled": false,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false,
@@ -82,7 +82,6 @@
   "Информация и особенности/Зэкерисский язык/Разметка.md": "LiGitCompare",
   "Папка создателей": "LiGithub",
   "Папка создателей/Заметки": "LiAlbum",
-  "Информация и особенности/Зэкерисский язык/README.md": "LiScrollText",
   "Папка создателей/Мастерская": "RiToolsFill",
   "Папка создателей/Медиа": "IbPhoto",
   "Папка создателей/Архив": "RiFolderZipFill",
@@ -108,5 +107,10 @@
   "Информация и особенности/Организации и силовые структуры/Шпионы.md": "LiVenetianMask",
   "Информация и особенности/Организации и силовые структуры/Гвардейцы.md": "LiShrink",
   "Информация и особенности/Идеологии/Хетац.md": "RiVipDiamondFill",
-  "Информация и особенности/Идеологии/Гсотац.md": "LiGrab"
+  "Информация и особенности/Идеологии/Гсотац.md": "LiGrab",
+  "Информация и особенности/Зэкерисский язык/Словарь.md": "FasBook",
+  "Персонажи/Джейд Сан.md": "LiExpand",
+  "Информация и особенности/Зэкерисский язык/Зэкерисский язык.md": "LiLanguages",
+  "Папка создателей/Галерея.base": "IbPhoto",
+  "Информация и особенности/Нервное экс-пи и рандомное мышление.md": "LiBrainCog"
 }

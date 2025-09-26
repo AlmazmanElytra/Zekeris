@@ -1,7 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#1f6531",
   "translucency": false,
   "baseFontSize": 14,
   "nativeMenus": false,
-  "cssTheme": "Things"
+  "cssTheme": "Retroma",
+  "theme": "system"
 }
