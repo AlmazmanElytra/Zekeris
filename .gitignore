@@ -4,3 +4,8 @@
 .obsidian/plugins/github-sync
 Информация и особенности/Зэкерисский язык/Предложения для разметки.md
 Информация и особенности/Зэкерисский язык/Предложения для словаря.md
+
+
+
+# Ignore Smart Environment folder
+.smart-env

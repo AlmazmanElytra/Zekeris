@@ -38,5 +38,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "local-gpt:quick-access-1": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
   ]
 }

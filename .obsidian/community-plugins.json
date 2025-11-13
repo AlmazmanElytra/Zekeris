@@ -3,12 +3,10 @@
   "local-backup",
   "obsidian-shellcommands",
   "github-sync",
-  "obsidian-style-settings",
   "obsidian-icon-folder",
   "timethings",
   "obsidian-plugin-toc",
   "obsidian-table-generator",
-  "table-editor-obsidian",
   "buttons",
   "calendar",
   "callout-manager",
@@ -18,5 +16,9 @@
   "obsidian-excalidraw-plugin",
   "execute-code",
   "OA-file-hider",
-  "obsidian-focus-mode"
+  "obsidian-focus-mode",
+  "table-editor-obsidian",
+  "obsidian-style-settings",
+  "folder-notes",
+  "maps"
 ]
