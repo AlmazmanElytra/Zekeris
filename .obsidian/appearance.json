@@ -1,8 +1,8 @@
 {
-  "accentColor": "#1f6531",
+  "accentColor": "#4a558c",
   "translucency": false,
   "baseFontSize": 14,
   "nativeMenus": false,
   "cssTheme": "Retroma",
-  "theme": "system"
+  "theme": "obsidian"
 }
