@@ -11,7 +11,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/gpt-3-prompt-templates",
       "installed": false,
-      "downloads": 101546
+      "downloads": 0
     },
     "dalle": {
       "packageId": "dalle",
@@ -24,7 +24,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-dalle-package",
       "installed": false,
-      "downloads": 101460
+      "downloads": 0
     },
     "huggingface": {
       "packageId": "huggingface",
@@ -37,7 +37,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/huggingface",
       "installed": false,
-      "downloads": 101809
+      "downloads": 0
     },
     "awesomePrompts": {
       "packageId": "awesomePrompts",
@@ -50,7 +50,7 @@
       "authorUrl": "https://github.com/f/awesome-chatgpt-prompts",
       "repo": "text-gen/awesome-tg-package",
       "installed": false,
-      "downloads": 7439
+      "downloads": 0
     },
     "tts": {
       "packageId": "tts",
@@ -63,7 +63,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/TTS",
       "installed": false,
-      "downloads": 3784
+      "downloads": 0
     },
     "vision": {
       "packageId": "vision",
@@ -75,19 +75,19 @@
       "tags": "OpenAI,markdown,gpt-4-vision,vision,images",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-vision",
-      "downloads": 3781
+      "downloads": 0
     },
     "smartConnections": {
       "packageId": "smartConnections",
       "name": "Smart Connections Package",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "minTextGeneratorVersion": "0.6.0",
       "description": "Contains Smart Connection Templates and support for Smart Connections for other templates (Script)",
       "author": "Noureddine",
       "tags": "smartConnections,smart-connections",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-smartConnections",
-      "downloads": 3780
+      "downloads": 0
     },
     "Experimental": {
       "packageId": "Experimental",
@@ -100,7 +100,7 @@
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/experimental-package",
       "installed": false,
-      "downloads": 3628
+      "downloads": 0
     },
     "testExtension": {
       "core": true,
